@@ -27,7 +27,7 @@ Therefore, the data was resplit to read the existing dataset.jsonl and produce n
 - BLEU-1 score
 
 ## All files: 
-- main.py: Main file used for dataset creation and running finetune model iterations
+- main.py: Main file used for running finetune model iterations
 - dataset_creation.py: Code for creating dataset from Wikipedia articles
 - resplit_dataset.py: Used to resplit the train/test sets
 - finetune.py: Model + LoRA adaptation
