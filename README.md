@@ -30,7 +30,7 @@ Therefore, the data was resplit to read the existing dataset.jsonl and produce n
 - main.py: Main file used for running finetune model iterations
 - dataset_creation.py: Code for creating dataset from Wikipedia articles
 - resplit_dataset.py: Used to resplit the train/test sets
-- finetune.py: Model + LoRA adaptation
+- finetune7.py: Model + LoRA adaptation
 - evaluate_comparison: Used to evaluate with base model
 - test_model.py: For testing
 - dataset.jsonl: Dataset with all Lithuanian cities/towns
